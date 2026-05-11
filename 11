@@ -1,0 +1,15 @@
+<?php
+
+$str="Dharmik";
+
+echo "Length: ".strlen($str);
+
+echo "<br>";
+
+echo "Reverse: ".strrev($str);
+
+echo "<br>";
+
+echo "Substring: ".substr($str,0,4);
+
+?>
